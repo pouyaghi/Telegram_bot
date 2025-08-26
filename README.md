@@ -6,7 +6,6 @@ It can chat in groups and private messages, remember context, summarize conversa
 ---
 
 ## 🚀 Features
-- Private chat with forwarding to admin
 - Group chat participation
 - AI-powered replies with memory
 - Conversation summarization
